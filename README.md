@@ -68,7 +68,7 @@ Site responsive pour accompagner les développeurs juniors dans leur préparatio
 
 ### 📊 GitHub Stats
 
-![Nabila's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabila-tamajnit&show_icons=true&theme=radical&hide_border=true)
+![Nabila's GitHub stats](https://github-readme-stats.zcy.dev/api?username=nabila-tamajnit)
 
 ---
 
