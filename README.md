@@ -64,6 +64,18 @@ Site responsive pour accompagner les développeurs juniors dans leur préparatio
 **Rôle** : Développement de l'interface utilisateur et logique de navigation front-end
 
 [![Repo](https://img.shields.io/badge/-Voir_le_code-181717?style=flat-square&logo=github)](https://github.com/nabila-tamajnit/DevPath_Junior.git)
+[![Demo Live](https://img.shields.io/badge/-Demo%20Live-000000?style=for-the-badge)](https://devpath-junior.vercel.app/)
+
+<br>
+
+### [CineVerse](https://github.com/nabila-tamajnit/CineVerse.git)
+Plateforme immersive d'exploration cinématographique avec recherche en temps réel et fiches détaillées.
+
+**Stack** : React, JavaScript, Tailwind CSS, Framer Motion
+**Rôle** : Développement Front-end, intégration d'API REST et création d'interfaces animées
+
+[![Repo](https://img.shields.io/badge/-Voir_le_code-181717?style=flat-square&logo=github)](https://github.com/nabila-tamajnit/CineVerse.git)
+[![Demo Live](https://img.shields.io/badge/-Demo%20Live-000000?style=for-the-badge)](https://cineverse-explorer.vercel.app/)
 
 ---
 
@@ -71,7 +83,7 @@ Site responsive pour accompagner les développeurs juniors dans leur préparatio
 
 ### 📊 GitHub Stats
 
-![Nabila's GitHub stats](https://github-readme-stats.zcy.dev/api?username=nabila-tamajnit)
+![Nabila's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabila-tamajnit&show_icons=true&theme=dark)
 
 ---
 
