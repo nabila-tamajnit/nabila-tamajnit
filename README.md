@@ -71,7 +71,7 @@ Site responsive pour accompagner les développeurs juniors dans leur préparatio
 ### [CineVerse](https://github.com/nabila-tamajnit/CineVerse.git)
 Plateforme immersive d'exploration cinématographique avec recherche en temps réel et fiches détaillées.
 
-**Stack** : React, JavaScript, Tailwind CSS, Framer Motion
+**Stack** : React, JavaScript, Tailwind CSS, Framer Motion  
 **Rôle** : Développement Front-end, intégration d'API REST et création d'interfaces animées
 
 [![Voir le code](https://img.shields.io/badge/-Voir%20le%20code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabila-tamajnit/CineVerse.git)
