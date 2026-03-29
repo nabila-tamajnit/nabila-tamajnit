@@ -63,8 +63,8 @@ Site responsive pour accompagner les développeurs juniors dans leur préparatio
 **Stack** : HTML5, CSS3, JavaScript  
 **Rôle** : Développement de l'interface utilisateur et logique de navigation front-end
 
-[![Repo](https://img.shields.io/badge/-Voir_le_code-181717?style=flat-square&logo=github)](https://github.com/nabila-tamajnit/DevPath_Junior.git)
-[![Demo Live](https://img.shields.io/badge/-Demo%20Live-000000?style=for-the-badge)](https://devpath-junior.vercel.app/)
+[![Voir le code](https://img.shields.io/badge/-Voir%20le%20code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabila-tamajnit/DevPath_Junior.git)
+[![Voir le code](https://img.shields.io/badge/-Voir%20le%20code-181717?style=for-the-badge&logo=github&logoColor=white)](https://devpath-junior.vercel.app/)
 
 <br>
 
@@ -74,8 +74,8 @@ Plateforme immersive d'exploration cinématographique avec recherche en temps r�
 **Stack** : React, JavaScript, Tailwind CSS, Framer Motion
 **Rôle** : Développement Front-end, intégration d'API REST et création d'interfaces animées
 
-[![Repo](https://img.shields.io/badge/-Voir_le_code-181717?style=flat-square&logo=github)](https://github.com/nabila-tamajnit/CineVerse.git)
-[![Demo Live](https://img.shields.io/badge/-Demo%20Live-000000?style=for-the-badge)](https://cineverse-explorer.vercel.app/)
+[![Voir le code](https://img.shields.io/badge/-Voir%20le%20code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabila-tamajnit/CineVerse.git)
+[![Demo Live](https://img.shields.io/badge/-Demo%20Live-000000?style=for-the-badge)](https://cineverse-explorer.vercel.app/) 
 
 ---
 
@@ -83,7 +83,7 @@ Plateforme immersive d'exploration cinématographique avec recherche en temps r�
 
 ### 📊 GitHub Stats
 
-![Nabila's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabila-tamajnit&show_icons=true&theme=dark)
+![Nabila's GitHub stats](https://github-readme-stats.zcy.dev/api?username=nabila-tamajnit)
 
 ---
 
