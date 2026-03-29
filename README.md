@@ -64,7 +64,7 @@ Site responsive pour accompagner les développeurs juniors dans leur préparatio
 **Rôle** : Développement de l'interface utilisateur et logique de navigation front-end
 
 [![Voir le code](https://img.shields.io/badge/-Voir%20le%20code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabila-tamajnit/DevPath_Junior.git)
-[![Voir le code](https://img.shields.io/badge/-Voir%20le%20code-181717?style=for-the-badge&logo=github&logoColor=white)](https://devpath-junior.vercel.app/)
+[![Demo Live](https://img.shields.io/badge/-Demo%20Live-000000?style=for-the-badge)](https://devpath-junior.vercel.app/)
 
 <br>
 
