@@ -16,8 +16,8 @@
 
 Ce que j'aime dans le dev ? Transformer une idée en quelque chose de concret et fonctionnel. Je monte en compétences sur le front et le back, avec l'envie d'aller toujours plus loin.
 
-🔍 **Actuellement** : En formation Full Stack JS chez Interface3  
-🚀 **Objectif** : Stage de 3 mois dès juin 2026
+**Actuellement** : En formation Full Stack JS chez Interface3  
+**Objectif** : Stage de 3 mois dès juin 2026
 
 ---
 
@@ -57,7 +57,7 @@ Ce que j'aime dans le dev ? Transformer une idée en quelque chose de concret et
 
 ## 🚀 Projets
 
-### 🎯 [DevPath Junior](https://github.com/nabila-tamajnit/DevPath_Junior.git)
+### [DevPath Junior](https://github.com/nabila-tamajnit/DevPath_Junior.git)
 Site responsive pour accompagner les développeurs juniors dans leur préparation aux entretiens techniques.
 
 **Stack** : HTML5, CSS3, JavaScript  
