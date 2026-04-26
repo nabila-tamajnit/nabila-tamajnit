@@ -30,6 +30,7 @@ Ce que j'aime dans le dev ? Transformer une idée en quelque chose de concret et
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
@@ -38,6 +39,7 @@ Ce que j'aime dans le dev ? Transformer une idée en quelque chose de concret et
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Outils & Design
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,6 +78,19 @@ Plateforme immersive d'exploration cinématographique avec recherche en temps r�
 
 [![Voir le code](https://img.shields.io/badge/-Voir%20le%20code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabila-tamajnit/CineVerse.git)
 [![Demo Live](https://img.shields.io/badge/-Demo%20Live-000000?style=for-the-badge)](https://cineverse-explorer.vercel.app/) 
+
+<br>
+
+### [BambooFlow](https://github.com/nabila-tamajnit/BambooFlow_frontend)
+
+Application full stack de gestion de tâches avec timer Pomodoro, authentification JWT et API REST sécurisée.
+
+**Stack** : React, Tailwind CSS, Node.js, Express, MongoDB  
+**Rôle** : Développement full stack — API REST, authentification, interface et logique métier complète
+
+[![Frontend](https://img.shields.io/badge/-Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabila-tamajnit/BambooFlow_frontend.git)
+[![Backend](https://img.shields.io/badge/-Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabila-tamajnit/BambooFlow_backend.git)
+[![Demo Live](https://img.shields.io/badge/-Demo%20Live-000000?style=for-the-badge)](https://bambooflow-app.vercel.app/)
 
 ---
 
