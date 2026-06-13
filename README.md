@@ -92,6 +92,18 @@ Application full stack de gestion de tâches avec timer Pomodoro, authentificati
 [![Backend](https://img.shields.io/badge/-Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabila-tamajnit/BambooFlow_backend.git)
 [![Demo Live](https://img.shields.io/badge/-Demo%20Live-000000?style=for-the-badge)](https://bambooflow-app.vercel.app/)
 
+<br>
+
+### [PetBuddy](https://github.com/nabila-tamajnit/petbuddy-frontend)
+Application de suivi du bien-être et de la santé animale avec rappels, carnet de santé et logs quotidiens.
+
+**Stack** : React, Tailwind CSS, Node.js, Express, MongoDB  
+**Rôle** : Développement full stack — API REST sécurisée, architecture en couches, interface et logique métier complète
+
+[![Frontend](https://img.shields.io/badge/-Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabila-tamajnit/petbuddy-frontend.git)
+[![Backend](https://img.shields.io/badge/-Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabila-tamajnit/petbuddy-backend.git)
+[![Demo Live](https://img.shields.io/badge/-Demo%20Live-000000?style=for-the-badge)](https://mypetbuddy.vercel.app/)
+
 ---
 
 <div align="center">
